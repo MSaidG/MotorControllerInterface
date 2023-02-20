@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\bin\Debug\MotorControlInterface.exe.config
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\bin\Debug\MotorControlInterface.exe
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\bin\Debug\MotorControlInterface.pdb
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\obj\Debug\MotorControlInterface.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\obj\Debug\MotorControlInterface.Form1.resources
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\obj\Debug\MotorControlInterface.Properties.Resources.resources
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\obj\Debug\MotorControlInterface.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\obj\Debug\MotorControlInterface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\obj\Debug\MotorControlInterface.exe
+C:\Users\user\Desktop\MotorControlInterface\MotorControlInterface\obj\Debug\MotorControlInterface.pdb
